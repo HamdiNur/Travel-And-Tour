@@ -16,6 +16,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  ## To run the travel and tour website locally on your machine, follow the steps below: Prerequisites
 
+
+##install node.js npm i
 ### `npm start`
 
 Runs the app in the development mode.\
